@@ -12,7 +12,7 @@ Student Researcher & Developer | **Fudan University**
   * Achieved <1s end-to-end latency for zero-shot text-to-motion execution in MuJoCo simulations.
 
 * **ROS Multi-Agent SLAM: Multi-Sensor Fusion Localization & Mapping**
-  * Developed distributed spatial awareness pipelines integrating UWB，LiDAR, IMU, and odometry data for wheeled robots.
+  * Developed distributed spatial awareness pipelines integrating UWB, LiDAR, IMU, and odometry data for wheeled robots.
   * Optimized complex `tf` tree transforms and inter-node communication synchronization across multiple operating agents.
 
 ## Tech Stack
